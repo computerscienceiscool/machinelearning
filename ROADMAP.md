@@ -22,7 +22,7 @@ As we prioritize, cost, and continue planning, we will try to keep the Roadmap u
 
 We heard your feedback loud and clear that our outdated docs and samples were a top pain point when learning and using ML.NET.
 
-As we continue to drive improvements in ML.NET and add new features, it's important to us that you're successful in adopting and using these enhanced capabilities to deliver value. Documentation and samples are an key part of that. Over the next year we plan to dedicate more resoures to deliver quality documentation and samples.  
+As we continue to drive improvements in ML.NET and add new features, it's important to us that you're successful in adopting and using these enhanced capabilities to deliver value. Documentation and samples are an key part of that. Over the next year we plan to dedicate more resources to deliver quality documentation and samples.  
 
 This [tracking issue](https://github.com/dotnet/docs/issues/32112) lists a few of the areas we plan to build documentation around over the next few months, 
 
@@ -80,7 +80,7 @@ Similarly, using the DataFrame API, you can load data into the `DataFrame`, appl
 
 However, for single predictions, there are currently no solutions. For tasks like forecasting, we've made modifications to how the PredictionEngine behaves. As a result, we expect being able to do something similar to enable untyped prediction engines.  
 
-While the details of what that implementation looks like, this year we plan to provide ways to create dynamic prediciton engines, meaning that you don't have to define your schemas beforehand and instead the shape of the training data defines the schemas.
+While the details of what that implementation looks like, this year we plan to provide ways to create dynamic predicition engines, meaning that you don't have to define your schemas beforehand and instead the shape of the training data defines the schemas.
 
 *Related issues*:
 
